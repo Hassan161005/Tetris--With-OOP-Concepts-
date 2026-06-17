@@ -1,0 +1,2 @@
+Raylib based Tetris Game
+The project is a traditional version of the Tetris game created in C++ by using raylib.h, where essential principles of programming are applied dealing with arrays, loops, inheritances, polymorphism, and event-driven programming. The game is operated by applying the regular Tetris rules where players take control of falling blocks to fill rows that are then cleared to score more points and move upper blocks down. It includes real-time score and shows the piece to come next in order to improve the gameplay strategy.
